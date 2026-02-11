@@ -1,1 +1,1 @@
-# wfgm_tr_ocr
+# WFGM_TrOCR
